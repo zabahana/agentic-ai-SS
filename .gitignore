@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+.DS_Store
+data/raw/
+data/processed/
+models/
+artifacts/private/
+*.pem
+*.key
+*.tfstate*
+.terraform/
